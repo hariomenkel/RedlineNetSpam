@@ -1,4 +1,5 @@
 ![alt text](https://github.com/hariomenkel/RedlineNetSpam/blob/main/logo.png?raw=true)
+(Logo created by https://huggingface.co/spaces/dalle-mini/dalle-mini)
 # RedlineNetSpam
 
 Since I realised, that my other repository for Redline Spamming (https://github.com/hariomenkel/RedlineSpam) only works with older, less popular version of Redline Infostealer I thought it might be worth to have a look at newer versions relying on NetTCPBinding for communication instead of SOAP.
