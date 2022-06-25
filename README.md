@@ -36,3 +36,9 @@ After setting up your environment, head over to https://tria.ge/s?q=family%3Ared
 Once you got a config and consulted your lawyer if this is allowed in your country, start RedlineNetSpam:
 
 ![alt text](https://github.com/hariomenkel/RedlineNetSpam/blob/main/running.jpg?raw=true)
+
+# Planned features
+As of now, it's mainly focused on spamming criminals but the following features are planned
+- In case of an Incident Response engagement where Redline has been used, leverage RedlineNetSpam to extract all data Redline stole but do not send it to the attackers but instead create a report for it so victims know which credentials and files have been stolen to act accordingly
+- Implement the planting of canary documents - As of now stealable files are created automatically
+- Implement feature to only print the config from Command & Control server without spamming
