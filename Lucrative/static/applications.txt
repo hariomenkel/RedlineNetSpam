@@ -1,0 +1,259 @@
+﻿Microsoft Lync Web App Plug-in
+Microsoft Lync Web App Plug-in (64-bit)
+Microsoft Dynamics NAV Setup
+Microsoft Office Visio 2010
+Microsoft Office Office 64-bit Components 2010
+Microsoft Office Standard 2016
+Microsoft Office OSM UX MUI  2016
+Microsoft Excel MUI  2016
+Microsoft PowerPoint MUI  2016
+Microsoft Publisher MUI  2016
+Microsoft Outlook MUI  2016
+Microsoft Office 64-bit Components 2016
+Microsoft Office Shared 64-bit MUI  2016
+Microsoft Groove MUI  2016
+Microsoft Word MUI  2016
+Microsoft Office Proofing  2016
+Microsoft Office Shared MUI  2016
+Strumenti di correzione di Microsoft Office 2016 - Italiano
+Microsoft Office Proofing Tools 2016 - English
+Outils de verification linguistique 2016 de Microsoft Office - Francais
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack
+Apple Software Update
+Intel(R) Wireless Bluetooth(R)
+Python 2.7.16
+Online Plug-in
+vs_minshellmsires
+Microsoft Visual C++ 2017 x86 Debug Runtime - 14.14.26405
+vs_minshellmsi
+Windows SDK EULA
+Simply Modbus TCP Client 8.1.1
+calibre
+vs_FileTracker_Singleton
+Microsoft Workflow Debugger v1.0 for amd64
+Microsoft .NET Framework 4.6.1 SDK
+Microsoft ASP.NET Core 2.0.8 Runtime Package Store (x64)
+SDK Debuggers
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405
+Windows SDK Desktop Tools x86
+NI SSL Support (64-bit)
+icecap_collectionresourcesx64
+Microsoft .NET Framework 4.5 Multi-Targeting Pack
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
+Apple Mobile Device Support
+NI Security Update (KB 67L8LCQW)
+Microsoft SQL Server 2016 LocalDB
+Intel PROSet/Wireless WiFi Software
+Dell Command | Update for Windows 10
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Windows SDK Facade Windows WinMD Versioned
+Windows SDK Signing Tools
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - DEU
+Windows Desktop Extension SDK Contracts
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+SDK ARM Additions
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Windows SDK Redistributables
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU
+Windows SDK Desktop Libs arm64
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+Microsoft Web Deploy 4.0
+NI LabWindows/CVI 2013 SP2 Low-Level Driver (Original)
+Windows SDK DirectX x86 Remote
+Application Verifier x64 External Package
+Intel(R) Rapid Storage Technology
+Windows SDK Modern Versioned Developer Tools
+Realtek Audio COM Components
+WinRT Intellisense UAP - Other Languages
+Open XML SDK 2.5 for Microsoft Office
+Universal CRT Redistributable
+Universal CRT Tools x64
+WinRT Intellisense UAP - en-us
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.14.26405
+Microsoft ASP.NET Web Tools Packages 15.0 - ENU
+Universal Agent Framework
+Microsoft Portable Library Multi-Targeting Pack Language Pack - deu
+ClickOnce Bootstrapper Package for Microsoft .NET Framework
+NI LabVIEW Runtime 2014 SP1
+Waldo Navpad
+Kumulatives Microsoft .NET Framework Intellisense Pack for Visual Studio ()
+Microsoft VC++ redistributables repacked.
+WinAppDeploy
+icecap_collectionresources
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.14.26405
+VS Immersive Activate Helper
+Workflow Manager Tools 1.0 for Visual Studio
+vs_filehandler_amd64
+Workflow Manager Client 1.0
+Intel(R) Computing Improvement Program
+Windows SDK ARM Desktop Tools
+vs_clickoncebootstrappermsi
+IIS 10.0 Express
+Citrix Receiver (USB)
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+Python Launcher
+Java 8 Update 202
+Java 8 Update 202 (64-bit)
+Windows SDK for Windows Store Apps Libs
+Java SE Development Kit 8 Update 202 (64-bit)
+icecap_collection_x64
+icecap_collection_neutral
+Google Chrome
+Intel(R) Trusted Connect Service Client x86
+Intel(R) Trusted Connect Service Client x64
+NI Trace Engine (64-bit)
+Microsoft .NET Core SDK - 2.1.201 (x64)
+Intel Hardware Accelerated Execution Manager
+vs_clickoncesigntoolmsi
+Intel(R) ME UninstallLegacy
+NI SSL Support
+Windows IoT Extension SDK
+vs_clickoncebootstrappermsires
+Windows Mobile Connectivity Tools 10.0.15254.0 - Desktop x86
+sptools_Microsoft.VisualStudio.Vsto.Msi.x64
+Apple Application Support (64-Bit)
+Windows SDK
+Active Directory Authentication Library for SQL Server
+WinRT Intellisense PPI - Other Languages
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+WinRT Intellisense Desktop - Other Languages
+WinRT Intellisense IoT - en-us
+MSI Development Tools
+Microsoft .NET Core Host FX Resolver - 2.0.7 (x64)
+WinRT Intellisense PPI - en-us
+Adobe Refresh Manager
+Adobe Acrobat Reader DC MUI
+Microsoft Visual Studio Setup Configuration
+Windows SDK for Windows Store Apps Headers
+Sophos Anti-Virus
+sptools_Microsoft.VisualStudio.Vsto.Msi
+Windows SDK Modern Non-Versioned Developer Tools
+Microsoft VC++ redistributables repacked.
+Microsoft ASP.NET Core Module for IIS Express
+Citrix Receiver (HDX Flash-Umleitung)
+vs_Graphics_Singletonx64
+Windows Team Extension SDK
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+NI Security Update (KB 67L8LCQW) (64-bit)
+sptools_Microsoft.VisualStudio.Vsto.Msi.Resources
+Universal CRT Extension SDK
+Windows SDK EULA
+Microsoft ASP.NET Web Tools Packages 15.0 - DEU
+IntelliTraceProfilerProxy
+DiagnosticsHub_CollectionService
+Microsoft SQL Server 2012 Command Line Utilities
+Check Point Endpoint Security
+Intel(R) PRO/Wireless Driver
+Windows IoT Extension SDK Contracts
+Windows SDK for Windows Store Apps Metadata
+Microsoft SQL Server 2012 Native Client
+Microsoft .NET Framework 4.6 Targeting Pack
+Microsoft NetStandard SDK
+Microsoft Visual C++ 2017 x64 Debug Runtime - 14.14.26405
+Citrix Receiver (DV)
+Windows SDK Desktop Libs x64
+Citrix Receiver(Aero)
+NI LabVIEW Runtime Interop 2014
+Windows SDK for Windows Store Apps
+IntelliTraceProfilerProxy
+Windows SDK AddOn
+vs_minshellinteropmsi
+Intel(R) Wireless Manageability Driver Extension
+Microsoft .NET Framework 4 Multi-Targeting Pack
+Universal General MIDI DLS Extension SDK
+Bonjour
+Windows SDK Desktop Headers x64
+Intel(R) Management Engine Driver
+Microsoft .NET Framework 4.6.1 SDK ()
+Windows SDK Desktop Libs x86
+Windows SDK for Windows Store Apps Contracts
+iTunes
+Windows App Certification Kit SupportedApiList x86
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack
+Windows SDK for Windows Store Apps DirectX x64 Remote
+WinRT Intellisense Mobile - en-us
+Microsoft ASP.NET Diagnostic Pack for Visual Studio
+Windows Phone SDK 8.0 Assemblies for Visual Studio 2017
+Microsoft .NET Framework 4.6.1 Targeting Pack
+Entity Framework 6.2.0 Tools  for Visual Studio 2017
+NI Error Reporting Interface 14.0
+Google Update Helper
+vs_Graphics_Singletonx86
+NI Error Reporting Interface 14.0 for Windows (64-bit)
+Windows Mobile Extension SDK Contracts
+Windows SDK Desktop Tools arm64
+VS Script Debugging Common
+WinRT Intellisense IoT - Other Languages
+Intel(R) Management Engine Components
+NI Curl 14.0.0 (64-bit)
+Windows SDK DirectX x64 Remote
+Microsoft-System-CLR-Typen for SQL Server 2017
+Microsoft Visual Studio Tools for Applications 2017 x64 Hosting Support
+NI LabWindows/CVI 2013 SP2 Low-Level Driver (Updated)
+Windows SDK Desktop Libs arm
+Windows SDK Desktop Headers x86
+SDK ARM Redistributables
+Microsoft System CLR Types for SQL Server 2014
+Windows App Certification Kit Native Components
+vs_devenvmsi
+Universal CRT Tools x86
+Microsoft Workflow Debugger v1.0 for x86
+Windows SDK Desktop Headers arm64
+Comsol Exposys SanScreen Connector
+NI EulaDepot
+Microsoft System CLR Types for SQL Server 2014
+Microsoft .NET Core Runtime - 2.0.7 (x64)
+Windows Mobile Extension SDK
+vcpp_crt.redist.clickonce
+Windows SDK Desktop Tools x64
+VS JIT Debugger
+Intel Driver Support Assistant
+Windows Team Extension SDK Contracts
+ClickShare Extension Pack
+Windows SDK for Windows Store Managed Apps Libs
+SD Card Formatter
+Microsoft Portable Library Multi-Targeting Pack
+Windows SDK for Windows Store Apps Tools
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Microsoft Report Viewer 2014 Runtime
+NI Measurement Studio ComponentWorks 3D Graph
+Microsoft Exchange Web Services Managed API 2.1
+vs_tipsmsi
+Microsoft Workflow Diagnostic Pack for x64
+NI Curl 2014
+Windows SDK for Windows Store Apps DirectX x86 Remote
+Microsoft Silverlight
+Windows App Certification Kit x64
+sptools_Microsoft.VisualStudio.OfficeDeveloperTools.Msi
+Windows Desktop Extension SDK
+NI Trace Engine
+vs_SQLClickOnceBootstrappermsi
+vs_communitymsi
+VS WCF Debugging
+vs_communitymsires
+Microsoft-System-CLR-Typen for SQL Server 2017
+Windows SDK Desktop Headers arm
+Cisco WebEx Meeting Center
+NI MDF Support
+Intel(R) Management Engine Components
+Kits Configuration Installer
+Intel(R) Wireless Manageability Driver
+vs_filehandler_x86
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+vs_BlendMsi
+Microsoft .NET Core Host - 2.0.7 (x64)
+PuTTY release 0.70 (64-bit)
+TypeScript SDK
+WinRT Intellisense Desktop - en-us
+Java Auto Updater
+Microsoft Windows Communication Foundation Diagnostic Pack for x86
+Universal CRT Headers Libraries and Sources
+Microsoft Identity Extensions
+Apple Application Support (32-Bit)
+Cisco WebEx-Productivity tools
+NI Uninstaller
+Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support
+Intel(R) Management Engine Components

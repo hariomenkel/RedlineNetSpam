@@ -1,0 +1,16 @@
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\static\domains.txt
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\static\first-names.txt
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\static\iso_country_codes.txt
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\static\last-names.txt
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\static\mail-domains.txt
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\static\applications.txt
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\static\sample.ovpn
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\static\zipbomb_template.zip
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\RedlineNetSpam.exe.config
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\RedlineNetSpam.exe
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\bin\Debug\RedlineNetSpam.pdb
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\obj\x86\Debug\Lucrative.csproj.AssemblyReference.cache
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\obj\x86\Debug\Lucrative.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\obj\x86\Debug\Lucrative.csproj.CoreCompileInputs.cache
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\obj\x86\Debug\RedlineNetSpam.exe
+C:\Users\vladimir\Desktop\RedlineNetSpam\Lucrative\obj\x86\Debug\RedlineNetSpam.pdb
